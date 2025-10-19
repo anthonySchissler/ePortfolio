@@ -30,3 +30,6 @@ twenty-thousand entries, showcasing the solution’s performance. In addition, I
 searching for items, and how to utilize C# to create a “custom” data structure without the use of pointers like I had in my C++ implementation. Overall this project reinforced 
 my fascination with performance and speed; when loading and searching for data using this artifact, it takes milliseconds to perform the required calculations to load and read 
 through the stored data. This will help reinforce my next improvements, which involve adding in a search capability to my other application. 
+
+### **Enhancement Directory:**
+- [Software Engineering Enhancement Repository](https://github.com/anthonySchissler/CS-499-Enhancement-One-Software-Design-and-Engineering)

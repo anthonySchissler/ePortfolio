@@ -25,4 +25,4 @@ when adjusted. Thinking of the roles the users have and building the infrastruct
 satisfied that I was able to implement these features, and I think they work quite well for what I was trying to implement. 
 
 ### **Enhancement Directory:**
-- [Database Enhancement Repository](https://github.com/anthonySchissler/CS-499-Enhancement-One-Software-Design-and-Engineering)
+- [Algorithms/Databases Enhancement Repository](https://github.com/anthonySchissler/CS-499-Enhancement-Two-Three-Algorithms-Databases)

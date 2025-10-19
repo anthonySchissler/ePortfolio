@@ -26,3 +26,6 @@ challenge didn’t come from implementing the sorting and search functions, but 
 actions. Through this process, I again learned how to integrate logical solutions onto a potentially daunting framework. I believe the development process for this 
 demonstrates my ability 
 to overcome challenges from a variety of sources, while implementing sound solutions. 
+
+### **Enhancement Directory:**
+- [Algorithms/Databases Enhancement Repository](https://github.com/anthonySchissler/CS-499-Enhancement-Two-Three-Algorithms-Databases)

@@ -34,9 +34,9 @@ demonstrate my ability to design solid software engineering solutions with logic
 
 
 ## **Code Review**
-<br></br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LzMbPQAI3vA?si=AOUWh22USb9CSwML" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br></br>
+<br>
 
 ## **Artifiact / Enhancement One: Software Engineering**
 
@@ -45,9 +45,9 @@ class was given a problem, and the students had to choose a specific data struct
 Essentially, it reads in a CSV that holds a series of course identifiers, names, and pre-requisites that the class has, and stores them for viewing. The user can load a dataset 
 in, view all items in the dataset, and search for a specific item. This improved artifact is written in C#, utilizing a Red-Black Tree variant known as the “Left-Leaning Red-
 Black Tree” devised by famed computer scientist Robert Sedgewick. 
-<br></br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TdqOlC4pTYQ?si=5qF_1AauglpU5Rjr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br></br>
+<br>
 
 
 Using inspiration from the suggestions for the capstone, I decided to do two things with this past project. I wanted to redo this assignment in another language, and C# to
@@ -77,9 +77,9 @@ The initial artifact for this enhancement came from the culminating project of C
 warehouse item inventory system. Written in Java’s Maven framework, this artifact was created using a complex system of event handlers, XML layouts, and database interface 
 code. Originally this artifact allowed for users to create accounts, login, add or remove items from the tracker, and set alerts to send texts when the items meet a certain 
 threshold. 
-<br></br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bKklFNrVdJ8?si=GOnjcWx83Y4sdhr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br></br>
+<br>
 
 
 I actually selected this item because of its intense complexity mixed with the desire to improve certain user functionality within the home page. Users weren’t able to sort 
@@ -114,9 +114,9 @@ The initial artifact for this enhancement came from the culminating project of C
 warehouse item inventory system. Written in Java’s Maven framework, this artifact was created using a complex system of event handlers, XML layouts, and database interface 
 code. Originally this artifact allowed for users to create accounts, login, add or remove items from the tracker, and set alerts to send texts when the items meet a certain 
 threshold.
-<br></br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i30MVkr7VV4?si=0j5jPX6pa1phhKs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br></br>
+<br>
 
 I selected this artifact due to the challenges in working with the framework, in addition to some missing functionality that I wanted to incorporate into my original 
 submission for that class. For this enhancement, I decided to tackle security enhancements with my artifact in addition to enhanced database functionality. This artifact in 

@@ -1,5 +1,45 @@
+## **The Journey So Far**
+Hello there – my name is Anthony, and throughout my experience at SNHU, I’ve been diligently working towards improving my capacity to solve problems utilizing applications 
+I’ve developed for the Computer Science program. This experience has ranged in everything from utilizing linear algebra with Matlab to optimize network throughput and 
+compress images, to choosing and implementing data structures using C++ to sort and store data, to working through the software development lifecycle with Java to implement 
+feedback from users towards completion of deliverables. I’ve used these challenges to improve my ability to reason through problems and plan and deliver on effective 
+solutions. 
 
-# **Artifiact / Enhancement One: Software Engineering**
+I have almost 10 years of experience both in high-stress collaborative situations in the military, as well as within the private sector in Information Technology on large 
+teams. Within SNHU, I’ve collaborated with other students on forums to ensure that students are able to understand the material correctly, and offer educational insight 
+that I can when facing problems I’ve encountered before. In addition, I try to ensure that all projects I develop are documented properly and utilize solid visual design so 
+that potential partners and reviewers have a positive experience when working with projects that I’ve developed.
+
+In communicating with stakeholders, I’ve implemented requested suggestions for multiple projects; ranging from improving recursion in my Data Structures class, to utilizing 
+prompts and instructor feedback in my Software Lifecycle classes to make recommended changes for end users. In my professional experience I’ve planned out solutions for 
+user problems, developed using those plans, received feedback, and iterated on those solutions to provide deliverables for stakeholders. 
+
+I’ve utilized data structures, algorithms, and software engineering to design solutions for a range of challenges, including sorting data and storing data, implementing 
+hierarchal object behavior using classes, and implementing improved solutions using different software languages. Through the integration of databases, I was able to model, 
+store, and query data as representations of physical attributes in our world with everything from animal shelter datasets to user accesses and Warehouse item storage. 
+Security was always at the top of my mind, as I currently work as a systems administrator who has remediated and implemented more secure solutions to assets at my 
+workplace. Combining this knowledge with experience from courses at SNHU, I was able to implement secure solutions to my projects, including database role-based access 
+control, and proper encapsulation boundaries and methods for objects.  
+
+In solving problems in this realm, my ability to reason and quickly iterate on developed solutions is my strongest talent. As a quick learner, I’m able to pickup new 
+technologies after minimal studying, and have the drive and interest to delve deeply into the how and why behind programmatical implementations and systems. This 
+specifically is represented in my interest in efficiency, and how to best implement efficient solutions for operations that could be costly in time complexity. To meet this 
+end, I’ve prepared three Enhancements that meet the requirements for Software Engineering, Algorithmic design, and Database integration. 
+
+My Software Engineering Enhancement turns a C++ hashtable for storing course data into a C# Red-Black Binary Search Tree with code that is more readable, better segmented, 
+and more efficient.  Through the second enhancement, I implemented a ranged binary search and sorting options into a database-integrated Warehouse Item tracking application 
+on Android to improve user experience efficiently. With my final enhancement, I implemented least-privileged role-based access controls with that same Android application 
+using a database to enhance its security posture, along with new functionality to allow for the management of users within the application. Together, these enhancements 
+demonstrate my ability to design solid software engineering solutions with logical data structures, efficient algorithms, and securely designed database integrations. 
+
+
+## **Code Review**
+
+<a href="https://www.youtube.com/watch?v=LzMbPQAI3vA" target="_blank">
+ <img src="http://img.youtube.com/vi/LzMbPQAI3vA/0.jpg" alt="Code Review" width="400" height="400" border="10" />
+</a>
+
+## **Artifiact / Enhancement One: Software Engineering**
 
 This artifact is the improvement of a project that I created for CS-300: Data Structures and Algorithms. Originally, the project was the culmination of the course, where the 
 class was given a problem, and the students had to choose a specific data structure to use to solve the problem. Written in C++, I wrote my solution using a hashtable. 
@@ -7,21 +47,17 @@ Essentially, it reads in a CSV that holds a series of course identifiers, names,
 in, view all items in the dataset, and search for a specific item. This improved artifact is written in C#, utilizing a Red-Black Tree variant known as the “Left-Leaning Red-
 Black Tree” devised by famed computer scientist Robert Sedgewick. 
 
+
+https://github.com/user-attachments/assets/6432673b-c8b5-4f06-b8b4-4f1e7a3c6d26
+
+
 Using inspiration from the suggestions for the capstone, I decided to do two things with this past project. I wanted to redo this assignment in another language, and C# to
 me has always been interesting because of its use in .NET and my extensive experience using PowerShell at work as a Systems Administrator. Additionally, I wanted to explore 
 binary trees because I haven’t explored that data structure much in my computer science career, often opting for a hashmap or arrays. Specifically, this showcased my ability 
 to implement a performant solution to meet the requirements of a problem. I was able to not only implement a simple Binary Search Tree, but also implement the balancing and 
 enhanced characteristics to make it a Left-Leaning Red-Black Tree. 
 
-I did meet the course outcomes that I had set out to accomplish. I believe this project demonstrated a few outcomes as well, including:
-
-    1.	Design and evaluate computing solutions that solve a given problem using 
-    algorithmic principles and computer science practices and standards 
-    appropriate to its solution, while managing the trade-offs involved in design choices
-    
-    2.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in 
-    computing practices for the purpose of implementing computer solutions that 
-    deliver value and accomplish industry-specific goals
+I did meet the course outcomes that I had set out to accomplish.
 
 I have a habit of using recursion and then forgetting how to utilize it, or how it fundamentally works, over time. With a recursive BST solution, I picked up and gained a more 
 fundamental understanding of how recursion was used to traverse over the data structure. Some challenges I encountered involved stack overflows and null pointer exceptions, 
@@ -35,12 +71,17 @@ through the stored data. This will help reinforce my next improvements, which in
 ### **Enhancement Directory:**
 - [Software Engineering Enhancement Repository](https://github.com/anthonySchissler/CS-499-Enhancement-One-Software-Design-and-Engineering)
 
-# **Artifiact / Enhancement Two: Algorithms**
+
+## **Artifiact / Enhancement Two: Algorithms**
 
 The initial artifact for this enhancement came from the culminating project of CS-360, which involved creating an android application that functioned as a database-integrated 
 warehouse item inventory system. Written in Java’s Maven framework, this artifact was created using a complex system of event handlers, XML layouts, and database interface 
 code. Originally this artifact allowed for users to create accounts, login, add or remove items from the tracker, and set alerts to send texts when the items meet a certain 
 threshold. 
+
+
+https://github.com/user-attachments/assets/8c1e1610-5313-4d6b-98f2-5fb922da2891
+
 
 I actually selected this item because of its intense complexity mixed with the desire to improve certain user functionality within the home page. Users weren’t able to sort 
 these items at all, and even more egregious, users wouldn’t be able to search for items to manipulate, which meant more time scrolling to find them. To meet the demands of a 
@@ -67,12 +108,17 @@ to overcome challenges from a variety of sources, while implementing sound solut
 ### **Enhancement Directory:**
 - [Algorithms/Databases Enhancement Repository](https://github.com/anthonySchissler/CS-499-Enhancement-Two-Three-Algorithms-Databases)
 
-# **Artifiact / Enhancement Three: Databases**
+
+## **Artifiact / Enhancement Three: Databases**
 
 The initial artifact for this enhancement came from the culminating project of CS-360, which involved creating an android application that functioned as a database-integrated 
 warehouse item inventory system. Written in Java’s Maven framework, this artifact was created using a complex system of event handlers, XML layouts, and database interface 
 code. Originally this artifact allowed for users to create accounts, login, add or remove items from the tracker, and set alerts to send texts when the items meet a certain 
 threshold.
+
+
+https://github.com/user-attachments/assets/cc092ed8-fefe-494e-a732-72b304d1397d
+
 
 I selected this artifact due to the challenges in working with the framework, in addition to some missing functionality that I wanted to incorporate into my original 
 submission for that class. For this enhancement, I decided to tackle security enhancements with my artifact in addition to enhanced database functionality. This artifact in 

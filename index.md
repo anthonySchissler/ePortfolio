@@ -39,6 +39,9 @@ demonstrate my ability to design solid software engineering solutions with logic
  <img src="http://img.youtube.com/vi/LzMbPQAI3vA/0.jpg" alt="Code Review" width="400" height="400" border="10" />
 </a>
 
+  (Click to play)
+
+
 ## **Artifiact / Enhancement One: Software Engineering**
 
 This artifact is the improvement of a project that I created for CS-300: Data Structures and Algorithms. Originally, the project was the culmination of the course, where the 
@@ -47,8 +50,11 @@ Essentially, it reads in a CSV that holds a series of course identifiers, names,
 in, view all items in the dataset, and search for a specific item. This improved artifact is written in C#, utilizing a Red-Black Tree variant known as the “Left-Leaning Red-
 Black Tree” devised by famed computer scientist Robert Sedgewick. 
 
+<a href="https://www.youtube.com/watch?v=TdqOlC4pTYQ" target="_blank">
+ <img src="http://img.youtube.com/vi/TdqOlC4pTYQ/0.jpg" alt="Software Engineering Enhancement Video" width="400" height="400" border="10" />
+</a>
 
-https://github.com/user-attachments/assets/6432673b-c8b5-4f06-b8b4-4f1e7a3c6d26
+  (Click to play)
 
 
 Using inspiration from the suggestions for the capstone, I decided to do two things with this past project. I wanted to redo this assignment in another language, and C# to
@@ -80,7 +86,11 @@ code. Originally this artifact allowed for users to create accounts, login, add 
 threshold. 
 
 
-https://github.com/user-attachments/assets/8c1e1610-5313-4d6b-98f2-5fb922da2891
+<a href="https://www.youtube.com/watch?v=bKklFNrVdJ8" target="_blank">
+ <img src="http://img.youtube.com/vi/bKklFNrVdJ8/0.jpg" alt="Data Structures and Algorithms Enhancement Video" width="400" height="400" border="10" />
+</a>
+
+  (Click to play)
 
 
 I actually selected this item because of its intense complexity mixed with the desire to improve certain user functionality within the home page. Users weren’t able to sort 
@@ -117,8 +127,11 @@ code. Originally this artifact allowed for users to create accounts, login, add 
 threshold.
 
 
-https://github.com/user-attachments/assets/cc092ed8-fefe-494e-a732-72b304d1397d
+<a href="https://www.youtube.com/watch?v=i30MVkr7VV4" target="_blank">
+ <img src="http://img.youtube.com/vi/i30MVkr7VV4/0.jpg" alt="Databases Enhancement Video" width="400" height="400" border="10" />
+</a>
 
+   (Click to play)
 
 I selected this artifact due to the challenges in working with the framework, in addition to some missing functionality that I wanted to incorporate into my original 
 submission for that class. For this enhancement, I decided to tackle security enhancements with my artifact in addition to enhanced database functionality. This artifact in 

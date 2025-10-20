@@ -1,3 +1,5 @@
-theme: jekyll-theme-primer
-title: CS-499 ePortfolio - Anthony Schissler
-description: A culmination of efforts to efficiently improve past projects
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
+title: [CS-499 ePortfolio - Anthony Schissler]
+description: [A culmination of efforts to efficiently improve past projects]

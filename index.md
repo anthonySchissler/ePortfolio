@@ -86,11 +86,8 @@ code. Originally this artifact allowed for users to create accounts, login, add 
 threshold. 
 
 
-<a href="https://www.youtube.com/watch?v=bKklFNrVdJ8" target="_blank">
- <img src="http://img.youtube.com/vi/bKklFNrVdJ8/0.jpg" alt="Data Structures and Algorithms Enhancement Video" width="400" height="400" border="10" />
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKklFNrVdJ8?si=GOnjcWx83Y4sdhr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  (Click to play)
 
 
 I actually selected this item because of its intense complexity mixed with the desire to improve certain user functionality within the home page. Users weren’t able to sort 
